@@ -1,0 +1,2 @@
+class WrongElementTypeError(Exception):
+    pass
